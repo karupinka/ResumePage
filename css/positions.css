@@ -1,0 +1,42 @@
+BODY{
+	
+}
+
+
+.container{
+	padding: 0;
+	min-width: 320px;
+	max-width: 1920px;
+	border: 1px solid black;
+	margin: auto;
+}
+
+.mainblock{
+	display: inline-block;
+	position: relative;
+	margin: 0;
+	padding: 0;
+	
+	float: left;
+}
+
+.emp_info{
+	width: 40%;
+}
+
+.emp_experiens{
+	width: 60%;
+}
+
+.block{
+	
+}
+
+.softskill{
+	display: flex;
+	
+	border: 1px solid black;
+	
+	
+}
+
